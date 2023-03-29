@@ -1,16 +1,6 @@
 # myflutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
++ [Dart教程](https://dart.cn/guides/language/language-tour#constructors)
++ [《Flutter实战·第二版》](https://book.flutterchina.club/)
++ [Flutter | 一些很适合新手练习的Demo](https://juejin.cn/post/6844903679523307533)
++ [KCFlutter](https://github.com/LGCooci/KCFlutter)
